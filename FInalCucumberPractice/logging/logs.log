@@ -1,0 +1,499 @@
+2023-09-05 16:31:18,645 [INFO ] common.SomeUtils [main] config property read
+2023-09-05 16:31:21,075 [INFO ] webdriverpackage.WebDriverClass [main] Chrome is Starting
+2023-09-05 16:31:26,528 [INFO ] common.CommonFunctions [main] URL Launched
+2023-09-05 16:31:26,667 [INFO ] common.CommonFunctions [main] Window Maximized
+2023-09-05 16:31:28,987 [INFO ] step_definitions.VerifyCEO [main] User in the Dashboard page
+2023-09-05 16:31:28,988 [INFO ] step_definitions.VerifyCEO [main] User navigates to Directory Page
+2023-09-05 16:31:30,255 [INFO ] step_definitions.VerifyCEO [main] user search as {string} as Job_Title
+2023-09-05 16:31:31,154 [INFO ] step_definitions.VerifyCEO [main] the user should see the {string} as below
+2023-09-05 16:31:31,263 [ERROR] step_definitions.VerifyCEO [main] CEO name mismatch
+2023-09-05 16:31:31,283 [INFO ] common.SomeUtils [main] config property read
+2023-09-05 16:31:31,285 [INFO ] step_definitions.VerifyTimesheets [main] User is on the TImesheet page
+2023-09-05 16:31:31,286 [INFO ] step_definitions.VerifyTimesheets [main] User selects the Employee {string} and Click on View button
+2023-09-05 16:31:31,287 [INFO ] step_definitions.VerifyTimesheets [main] The User should see the Message
+2023-09-05 16:32:59,533 [INFO ] common.SomeUtils [main] config property read
+2023-09-05 16:33:01,972 [INFO ] webdriverpackage.WebDriverClass [main] Chrome is Starting
+2023-09-05 16:33:09,454 [INFO ] common.CommonFunctions [main] URL Launched
+2023-09-05 16:33:09,594 [INFO ] common.CommonFunctions [main] Window Maximized
+2023-09-05 16:33:10,536 [INFO ] step_definitions.VerifyCEO [main] User in the Dashboard page
+2023-09-05 16:33:10,539 [INFO ] step_definitions.VerifyCEO [main] User navigates to Directory Page
+2023-09-05 16:33:13,193 [INFO ] step_definitions.VerifyCEO [main] user search as {string} as Job_Title
+2023-09-05 16:33:17,261 [INFO ] step_definitions.VerifyCEO [main] the user should see the {string} as below
+2023-09-05 16:33:18,178 [ERROR] step_definitions.VerifyCEO [main] CEO name mismatch
+2023-09-05 16:33:18,191 [INFO ] common.SomeUtils [main] config property read
+2023-09-05 16:33:18,193 [INFO ] step_definitions.VerifyTimesheets [main] User is on the TImesheet page
+2023-09-05 16:33:18,195 [INFO ] step_definitions.VerifyTimesheets [main] User selects the Employee {string} and Click on View button
+2023-09-05 16:33:18,196 [INFO ] step_definitions.VerifyTimesheets [main] The User should see the Message
+2023-09-05 16:35:44,979 [INFO ] common.SomeUtils [main] config property read
+2023-09-05 16:35:47,443 [INFO ] webdriverpackage.WebDriverClass [main] Chrome is Starting
+2023-09-05 16:35:54,820 [INFO ] common.CommonFunctions [main] URL Launched
+2023-09-05 16:35:54,955 [INFO ] common.CommonFunctions [main] Window Maximized
+2023-09-05 16:35:55,909 [INFO ] step_definitions.VerifyCEO [main] User in the Dashboard page
+2023-09-05 16:35:55,912 [INFO ] step_definitions.VerifyCEO [main] User navigates to Directory Page
+2023-09-05 16:35:58,458 [INFO ] step_definitions.VerifyCEO [main] user search as {string} as Job_Title
+2023-09-05 16:36:02,630 [INFO ] step_definitions.VerifyCEO [main] the user should see the {string} as below
+2023-09-05 16:36:03,496 [ERROR] step_definitions.VerifyCEO [main] CEO name mismatch
+2023-09-05 16:36:03,509 [INFO ] common.SomeUtils [main] config property read
+2023-09-05 16:36:03,511 [INFO ] step_definitions.VerifyTimesheets [main] User is on the TImesheet page
+2023-09-05 16:36:03,511 [INFO ] step_definitions.VerifyTimesheets [main] User selects the Employee {string} and Click on View button
+2023-09-05 16:36:03,512 [INFO ] step_definitions.VerifyTimesheets [main] The User should see the Message
+2023-09-05 16:37:19,728 [INFO ] common.SomeUtils [main] config property read
+2023-09-05 16:37:22,158 [INFO ] webdriverpackage.WebDriverClass [main] Chrome is Starting
+2023-09-05 16:37:35,250 [INFO ] common.CommonFunctions [main] URL Launched
+2023-09-05 16:37:35,393 [INFO ] common.CommonFunctions [main] Window Maximized
+2023-09-05 16:37:36,367 [INFO ] step_definitions.VerifyCEO [main] User in the Dashboard page
+2023-09-05 16:37:36,369 [INFO ] step_definitions.VerifyCEO [main] User navigates to Directory Page
+2023-09-05 16:37:38,945 [INFO ] step_definitions.VerifyCEO [main] user search as {string} as Job_Title
+2023-09-05 16:37:42,739 [INFO ] step_definitions.VerifyCEO [main] the user should see the {string} as below
+2023-09-05 16:37:43,156 [INFO ] step_definitions.VerifyCEO [main] CEO verified
+2023-09-05 16:37:43,171 [INFO ] common.SomeUtils [main] config property read
+2023-09-05 16:37:43,174 [INFO ] step_definitions.VerifyTimesheets [main] User is on the TImesheet page
+2023-09-05 16:37:43,175 [INFO ] step_definitions.VerifyTimesheets [main] User selects the Employee {string} and Click on View button
+2023-09-05 16:37:43,176 [INFO ] step_definitions.VerifyTimesheets [main] The User should see the Message
+2023-09-05 17:27:36,368 [INFO ] common.SomeUtils [main] config property read
+2023-09-05 17:27:39,152 [INFO ] webdriverpackage.WebDriverClass [main] Chrome is Starting
+2023-09-05 17:27:44,565 [INFO ] common.CommonFunctions [main] URL Launched
+2023-09-05 17:27:44,686 [INFO ] common.CommonFunctions [main] Window Maximized
+2023-09-05 17:27:45,398 [INFO ] step_definitions.VerifyCEO [main] User in the Dashboard page
+2023-09-05 17:27:45,399 [INFO ] step_definitions.VerifyCEO [main] User navigates to Directory Page
+2023-09-05 17:27:48,217 [INFO ] step_definitions.VerifyCEO [main] user search as {string} as Job_Title
+2023-09-05 17:27:51,961 [INFO ] step_definitions.VerifyCEO [main] the user should see the {string} as below
+2023-09-05 17:27:52,370 [INFO ] step_definitions.VerifyCEO [main] CEO verified
+2023-09-05 17:27:52,379 [INFO ] common.SomeUtils [main] config property read
+2023-09-05 17:27:52,380 [INFO ] step_definitions.VerifyTimesheets [main] User is on the TImesheet page
+2023-09-05 17:27:52,380 [INFO ] step_definitions.VerifyTimesheets [main] User selects the Employee {string} and Click on View button
+2023-09-05 17:27:57,522 [INFO ] step_definitions.VerifyTimesheets [main] The User should see the Message
+2023-09-05 17:29:28,422 [INFO ] common.SomeUtils [main] config property read
+2023-09-05 17:29:30,152 [INFO ] webdriverpackage.WebDriverClass [main] Chrome is Starting
+2023-09-05 17:29:34,828 [INFO ] common.CommonFunctions [main] URL Launched
+2023-09-05 17:29:34,959 [INFO ] common.CommonFunctions [main] Window Maximized
+2023-09-05 17:29:35,653 [INFO ] step_definitions.VerifyCEO [main] User in the Dashboard page
+2023-09-05 17:29:35,656 [INFO ] step_definitions.VerifyCEO [main] User navigates to Directory Page
+2023-09-05 17:29:38,255 [INFO ] step_definitions.VerifyCEO [main] user search as {string} as Job_Title
+2023-09-05 17:29:42,072 [INFO ] step_definitions.VerifyCEO [main] the user should see the {string} as below
+2023-09-05 17:29:42,543 [INFO ] step_definitions.VerifyCEO [main] CEO verified
+2023-09-05 17:29:42,552 [INFO ] common.SomeUtils [main] config property read
+2023-09-05 17:29:42,554 [INFO ] step_definitions.VerifyTimesheets [main] User is on the TImesheet page
+2023-09-05 17:29:43,390 [INFO ] step_definitions.VerifyTimesheets [main] User selects the Employee {string} and Click on View button
+2023-09-05 17:29:48,924 [INFO ] step_definitions.VerifyTimesheets [main] The User should see the Message
+2023-09-05 17:32:08,664 [INFO ] common.SomeUtils [main] config property read
+2023-09-05 17:32:10,533 [INFO ] webdriverpackage.WebDriverClass [main] Chrome is Starting
+2023-09-05 17:32:15,059 [INFO ] common.CommonFunctions [main] URL Launched
+2023-09-05 17:32:15,185 [INFO ] common.CommonFunctions [main] Window Maximized
+2023-09-05 17:32:16,559 [INFO ] step_definitions.VerifyCEO [main] User in the Dashboard page
+2023-09-05 17:32:16,561 [INFO ] step_definitions.VerifyCEO [main] User navigates to Directory Page
+2023-09-05 17:32:18,981 [INFO ] step_definitions.VerifyCEO [main] user search as {string} as Job_Title
+2023-09-05 17:32:22,717 [INFO ] step_definitions.VerifyCEO [main] the user should see the {string} as below
+2023-09-05 17:32:23,111 [INFO ] step_definitions.VerifyCEO [main] CEO verified
+2023-09-05 17:32:23,118 [INFO ] common.SomeUtils [main] config property read
+2023-09-05 17:32:23,119 [INFO ] step_definitions.VerifyTimesheets [main] User is on the TImesheet page
+2023-09-05 17:32:23,913 [INFO ] step_definitions.VerifyTimesheets [main] User selects the Employee {string} and Click on View button
+2023-09-05 17:32:29,391 [INFO ] step_definitions.VerifyTimesheets [main] The User should see the Message
+2023-09-05 17:33:15,857 [INFO ] common.SomeUtils [main] config property read
+2023-09-05 17:33:17,655 [INFO ] webdriverpackage.WebDriverClass [main] Chrome is Starting
+2023-09-05 17:33:22,461 [INFO ] common.CommonFunctions [main] URL Launched
+2023-09-05 17:33:22,585 [INFO ] common.CommonFunctions [main] Window Maximized
+2023-09-05 17:33:23,305 [INFO ] step_definitions.VerifyCEO [main] User in the Dashboard page
+2023-09-05 17:33:23,306 [INFO ] step_definitions.VerifyCEO [main] User navigates to Directory Page
+2023-09-05 17:33:25,991 [INFO ] step_definitions.VerifyCEO [main] user search as {string} as Job_Title
+2023-09-05 17:33:29,605 [INFO ] step_definitions.VerifyCEO [main] the user should see the {string} as below
+2023-09-05 17:33:30,008 [INFO ] step_definitions.VerifyCEO [main] CEO verified
+2023-09-05 17:33:30,017 [INFO ] common.SomeUtils [main] config property read
+2023-09-05 17:33:30,018 [INFO ] step_definitions.VerifyTimesheets [main] User is on the TImesheet page
+2023-09-05 17:33:30,883 [INFO ] step_definitions.VerifyTimesheets [main] User selects the Employee {string} and Click on View button
+2023-09-05 17:38:21,670 [INFO ] common.SomeUtils [main] config property read
+2023-09-05 17:38:23,469 [INFO ] webdriverpackage.WebDriverClass [main] Chrome is Starting
+2023-09-05 17:38:27,839 [INFO ] common.CommonFunctions [main] URL Launched
+2023-09-05 17:38:27,958 [INFO ] common.CommonFunctions [main] Window Maximized
+2023-09-05 17:38:29,988 [INFO ] step_definitions.VerifyCEO [main] User in the Dashboard page
+2023-09-05 17:38:29,989 [INFO ] step_definitions.VerifyCEO [main] User navigates to Directory Page
+2023-09-05 17:38:31,159 [INFO ] step_definitions.VerifyCEO [main] user search as {string} as Job_Title
+2023-09-05 17:38:34,859 [INFO ] step_definitions.VerifyCEO [main] the user should see the {string} as below
+2023-09-05 17:38:35,263 [INFO ] step_definitions.VerifyCEO [main] CEO verified
+2023-09-05 17:38:35,271 [INFO ] common.SomeUtils [main] config property read
+2023-09-05 17:38:35,272 [INFO ] step_definitions.VerifyTimesheets [main] User is on the TImesheet page
+2023-09-05 17:38:36,172 [INFO ] step_definitions.VerifyTimesheets [main] User selects the Employee {string} and Click on View button
+2023-09-05 17:38:36,692 [INFO ] step_definitions.VerifyTimesheets [main] The User should see the Message
+2023-09-05 17:39:31,319 [INFO ] common.SomeUtils [main] config property read
+2023-09-05 17:39:33,248 [INFO ] webdriverpackage.WebDriverClass [main] Chrome is Starting
+2023-09-05 17:39:37,871 [INFO ] common.CommonFunctions [main] URL Launched
+2023-09-05 17:39:37,997 [INFO ] common.CommonFunctions [main] Window Maximized
+2023-09-05 17:39:38,719 [INFO ] step_definitions.VerifyCEO [main] User in the Dashboard page
+2023-09-05 17:39:38,721 [INFO ] step_definitions.VerifyCEO [main] User navigates to Directory Page
+2023-09-05 17:39:41,235 [INFO ] step_definitions.VerifyCEO [main] user search as {string} as Job_Title
+2023-09-05 17:39:44,955 [INFO ] step_definitions.VerifyCEO [main] the user should see the {string} as below
+2023-09-05 17:39:45,429 [INFO ] step_definitions.VerifyCEO [main] CEO verified
+2023-09-05 17:39:45,438 [INFO ] common.SomeUtils [main] config property read
+2023-09-05 17:39:45,439 [INFO ] step_definitions.VerifyTimesheets [main] User is on the TImesheet page
+2023-09-05 17:39:46,376 [INFO ] step_definitions.VerifyTimesheets [main] User selects the Employee {string} and Click on View button
+2023-09-05 17:39:51,432 [INFO ] step_definitions.VerifyTimesheets [main] The User should see the Message
+2023-09-05 17:45:22,657 [INFO ] common.SomeUtils [main] config property read
+2023-09-05 17:45:24,804 [INFO ] webdriverpackage.WebDriverClass [main] Chrome is Starting
+2023-09-05 17:45:29,340 [INFO ] common.CommonFunctions [main] URL Launched
+2023-09-05 17:45:29,467 [INFO ] common.CommonFunctions [main] Window Maximized
+2023-09-05 17:45:31,009 [INFO ] step_definitions.VerifyCEO [main] User in the Dashboard page
+2023-09-05 17:45:31,010 [INFO ] step_definitions.VerifyCEO [main] User navigates to Directory Page
+2023-09-05 17:45:33,471 [INFO ] step_definitions.VerifyCEO [main] user search as {string} as Job_Title
+2023-09-05 17:45:37,359 [INFO ] step_definitions.VerifyCEO [main] the user should see the {string} as below
+2023-09-05 17:45:37,771 [INFO ] step_definitions.VerifyCEO [main] CEO verified
+2023-09-05 17:45:37,779 [INFO ] common.SomeUtils [main] config property read
+2023-09-05 17:45:37,781 [INFO ] step_definitions.VerifyTimesheets [main] User is on the TImesheet page
+2023-09-05 17:45:38,608 [INFO ] step_definitions.VerifyTimesheets [main] User selects the Employee {string} and Click on View button
+2023-09-05 17:45:43,269 [INFO ] step_definitions.VerifyTimesheets [main] The User should see the Message
+2023-09-05 17:47:12,405 [INFO ] common.SomeUtils [main] config property read
+2023-09-05 17:47:14,305 [INFO ] webdriverpackage.WebDriverClass [main] Chrome is Starting
+2023-09-05 17:47:18,708 [INFO ] common.CommonFunctions [main] URL Launched
+2023-09-05 17:47:18,829 [INFO ] common.CommonFunctions [main] Window Maximized
+2023-09-05 17:47:20,779 [INFO ] step_definitions.VerifyTimesheets [main] User is on the TImesheet page
+2023-09-05 17:47:22,692 [INFO ] step_definitions.VerifyTimesheets [main] User selects the Employee {string} and Click on View button
+2023-09-05 17:47:27,782 [INFO ] step_definitions.VerifyTimesheets [main] The User should see the Message
+2023-09-05 17:47:28,737 [INFO ] step_definitions.VerifyTimesheets [main] User seen the message
+2023-09-05 17:49:37,987 [INFO ] common.SomeUtils [main] config property read
+2023-09-05 17:49:39,741 [INFO ] webdriverpackage.WebDriverClass [main] Chrome is Starting
+2023-09-05 17:49:44,331 [INFO ] common.CommonFunctions [main] URL Launched
+2023-09-05 17:49:44,460 [INFO ] common.CommonFunctions [main] Window Maximized
+2023-09-05 17:49:46,097 [INFO ] step_definitions.VerifyTimesheets [main] User is on the TImesheet page
+2023-09-05 17:49:49,177 [INFO ] step_definitions.VerifyTimesheets [main] User selects the Employee {string} and Click on View button
+2023-09-05 17:49:54,230 [INFO ] step_definitions.VerifyTimesheets [main] The User should see the Message
+2023-09-05 17:49:55,460 [INFO ] step_definitions.VerifyTimesheets [main] User seen the message
+2023-09-05 17:50:34,296 [INFO ] common.SomeUtils [main] config property read
+2023-09-05 17:50:36,157 [INFO ] webdriverpackage.WebDriverClass [main] Chrome is Starting
+2023-09-05 17:50:40,954 [INFO ] common.CommonFunctions [main] URL Launched
+2023-09-05 17:50:41,079 [INFO ] common.CommonFunctions [main] Window Maximized
+2023-09-05 17:50:41,779 [INFO ] step_definitions.VerifyTimesheets [main] User is on the TImesheet page
+2023-09-05 17:50:45,143 [INFO ] step_definitions.VerifyTimesheets [main] User selects the Employee {string} and Click on View button
+2023-09-05 17:50:50,401 [INFO ] step_definitions.VerifyTimesheets [main] The User should see the Message
+2023-09-05 17:50:54,963 [INFO ] step_definitions.VerifyTimesheets [main] User seen the message
+2023-09-05 17:51:45,997 [INFO ] common.SomeUtils [main] config property read
+2023-09-05 17:51:47,830 [INFO ] webdriverpackage.WebDriverClass [main] Chrome is Starting
+2023-09-05 17:51:51,810 [INFO ] common.CommonFunctions [main] URL Launched
+2023-09-05 17:51:51,935 [INFO ] common.CommonFunctions [main] Window Maximized
+2023-09-05 17:51:52,626 [INFO ] step_definitions.VerifyTimesheets [main] User is on the TImesheet page
+2023-09-05 17:51:55,442 [INFO ] step_definitions.VerifyTimesheets [main] User selects the Employee {string} and Click on View button
+2023-09-05 17:52:03,603 [INFO ] step_definitions.VerifyTimesheets [main] The User should see the Message
+2023-09-05 17:52:03,620 [INFO ] step_definitions.VerifyTimesheets [main] User seen the message
+2023-09-05 17:52:55,143 [INFO ] common.SomeUtils [main] config property read
+2023-09-05 17:52:56,902 [INFO ] webdriverpackage.WebDriverClass [main] Chrome is Starting
+2023-09-05 17:53:01,244 [INFO ] common.CommonFunctions [main] URL Launched
+2023-09-05 17:53:01,367 [INFO ] common.CommonFunctions [main] Window Maximized
+2023-09-05 17:53:02,071 [INFO ] step_definitions.VerifyTimesheets [main] User is on the TImesheet page
+2023-09-05 17:53:05,652 [INFO ] step_definitions.VerifyTimesheets [main] User selects the Employee {string} and Click on View button
+2023-09-05 17:53:13,798 [INFO ] step_definitions.VerifyTimesheets [main] The User should see the Message
+2023-09-05 17:53:13,829 [INFO ] step_definitions.VerifyTimesheets [main] User seen the message
+2023-09-05 17:59:00,144 [INFO ] common.SomeUtils [main] config property read
+2023-09-05 17:59:01,916 [INFO ] webdriverpackage.WebDriverClass [main] Chrome is Starting
+2023-09-05 17:59:05,987 [INFO ] common.CommonFunctions [main] URL Launched
+2023-09-05 17:59:06,110 [INFO ] common.CommonFunctions [main] Window Maximized
+2023-09-05 17:59:06,797 [INFO ] step_definitions.VerifyTimesheets [main] User is on the TImesheet page
+2023-09-05 17:59:09,995 [INFO ] step_definitions.VerifyTimesheets [main] User selects the Employee {string} and Click on View button
+2023-09-05 17:59:18,140 [INFO ] step_definitions.VerifyTimesheets [main] The User should see the Message
+2023-09-05 17:59:18,171 [INFO ] step_definitions.VerifyTimesheets [main] User seen the message
+2023-09-05 18:00:31,270 [INFO ] common.SomeUtils [main] config property read
+2023-09-05 18:00:33,132 [INFO ] webdriverpackage.WebDriverClass [main] Chrome is Starting
+2023-09-05 18:00:37,447 [INFO ] common.CommonFunctions [main] URL Launched
+2023-09-05 18:00:37,576 [INFO ] common.CommonFunctions [main] Window Maximized
+2023-09-05 18:00:38,283 [INFO ] step_definitions.VerifyTimesheets [main] User is on the TImesheet page
+2023-09-05 18:00:41,583 [INFO ] step_definitions.VerifyTimesheets [main] User selects the Employee {string} and Click on View button
+2023-09-05 18:00:49,652 [INFO ] step_definitions.VerifyTimesheets [main] The User should see the Message
+2023-09-05 18:00:49,684 [INFO ] step_definitions.VerifyTimesheets [main] User seen the message
+2023-09-05 18:02:24,331 [INFO ] common.SomeUtils [main] config property read
+2023-09-05 18:02:26,106 [INFO ] webdriverpackage.WebDriverClass [main] Chrome is Starting
+2023-09-05 18:02:30,304 [INFO ] common.CommonFunctions [main] URL Launched
+2023-09-05 18:02:30,429 [INFO ] common.CommonFunctions [main] Window Maximized
+2023-09-05 18:02:31,133 [INFO ] step_definitions.VerifyTimesheets [main] User is on the TImesheet page
+2023-09-05 18:02:34,476 [INFO ] step_definitions.VerifyTimesheets [main] User selects the Employee {string} and Click on View button
+2023-09-05 18:02:42,608 [INFO ] step_definitions.VerifyTimesheets [main] The User should see the Message
+2023-09-05 18:02:42,638 [INFO ] step_definitions.VerifyTimesheets [main] User seen the message
+2023-09-05 18:03:05,498 [INFO ] common.SomeUtils [main] config property read
+2023-09-05 18:03:07,372 [INFO ] webdriverpackage.WebDriverClass [main] Chrome is Starting
+2023-09-05 18:03:12,778 [INFO ] common.CommonFunctions [main] URL Launched
+2023-09-05 18:03:12,903 [INFO ] common.CommonFunctions [main] Window Maximized
+2023-09-05 18:03:13,691 [INFO ] step_definitions.VerifyCEO [main] User in the Dashboard page
+2023-09-05 18:03:13,693 [INFO ] step_definitions.VerifyCEO [main] User navigates to Directory Page
+2023-09-05 18:03:16,459 [INFO ] step_definitions.VerifyCEO [main] user search as {string} as Job_Title
+2023-09-05 18:03:20,178 [INFO ] step_definitions.VerifyCEO [main] the user should see the {string} as below
+2023-09-05 18:03:20,637 [INFO ] step_definitions.VerifyCEO [main] CEO verified
+2023-09-05 18:03:20,646 [INFO ] common.SomeUtils [main] config property read
+2023-09-05 18:03:20,647 [INFO ] step_definitions.VerifyTimesheets [main] User is on the TImesheet page
+2023-09-05 18:03:21,588 [INFO ] step_definitions.VerifyTimesheets [main] User selects the Employee {string} and Click on View button
+2023-09-05 18:03:29,752 [INFO ] step_definitions.VerifyTimesheets [main] The User should see the Message
+2023-09-05 18:03:29,782 [INFO ] step_definitions.VerifyTimesheets [main] User seen the message
+2023-09-06 14:52:26,790 [INFO ] common.SomeUtils [main] config property read
+2023-09-06 14:52:31,742 [INFO ] webdriverpackage.WebDriverClass [main] Chrome is Starting
+2023-09-06 14:52:36,151 [INFO ] common.CommonFunctions [main] URL Launched
+2023-09-06 14:52:36,280 [INFO ] common.CommonFunctions [main] Window Maximized
+2023-09-06 14:52:39,784 [INFO ] step_definitions.VerifyCEO [main] User in the Dashboard page
+2023-09-06 14:52:39,786 [INFO ] step_definitions.VerifyCEO [main] User navigates to Directory Page
+2023-09-06 14:52:41,113 [INFO ] step_definitions.VerifyCEO [main] user search as {string} as Job_Title
+2023-09-06 14:52:45,028 [INFO ] step_definitions.VerifyCEO [main] the user should see the {string} as below
+2023-09-06 14:52:45,521 [INFO ] step_definitions.VerifyCEO [main] CEO verified
+2023-09-06 14:52:45,536 [INFO ] common.SomeUtils [main] config property read
+2023-09-06 14:52:45,537 [INFO ] step_definitions.VerifyTimesheets [main] User is on the TImesheet page
+2023-09-06 14:52:48,797 [INFO ] step_definitions.VerifyTimesheets [main] User selects the Employee {string} and Click on View button
+2023-09-06 14:52:57,011 [INFO ] step_definitions.VerifyTimesheets [main] The User should see the Message
+2023-09-06 14:52:57,054 [INFO ] step_definitions.VerifyTimesheets [main] User seen the message
+2023-09-06 15:23:52,405 [INFO ] common.SomeUtils [main] config property read
+2023-09-06 15:23:55,240 [INFO ] webdriverpackage.WebDriverClass [main] Chrome is Starting
+2023-09-06 15:24:09,854 [INFO ] common.CommonFunctions [main] URL Launched
+2023-09-06 15:24:10,008 [INFO ] common.CommonFunctions [main] Window Maximized
+2023-09-06 15:24:12,444 [INFO ] step_definitions.VerifyCEO [main] User in the Dashboard page
+2023-09-06 15:24:12,446 [INFO ] step_definitions.VerifyCEO [main] User navigates to Directory Page
+2023-09-06 15:24:13,844 [INFO ] step_definitions.VerifyCEO [main] user search as {string} as Job_Title
+2023-09-06 15:24:17,847 [INFO ] step_definitions.VerifyCEO [main] the user should see the {string} as below
+2023-09-06 15:24:18,279 [INFO ] step_definitions.VerifyCEO [main] CEO verified
+2023-09-06 15:24:18,294 [INFO ] common.SomeUtils [main] config property read
+2023-09-06 15:24:18,296 [INFO ] step_definitions.VerifyTimesheets [main] User is on the TImesheet page
+2023-09-06 15:24:19,406 [INFO ] step_definitions.VerifyTimesheets [main] User selects the Employee {string} and Click on View button
+2023-09-06 15:24:24,696 [INFO ] step_definitions.VerifyTimesheets [main] The User should see the Message
+2023-09-06 15:24:25,651 [INFO ] step_definitions.VerifyTimesheets [main] User seen the message
+2023-09-06 15:26:49,408 [INFO ] common.SomeUtils [main] config property read
+2023-09-06 15:26:51,869 [INFO ] webdriverpackage.WebDriverClass [main] Chrome is Starting
+2023-09-06 15:26:59,860 [INFO ] common.CommonFunctions [main] URL Launched
+2023-09-06 15:27:00,008 [INFO ] common.CommonFunctions [main] Window Maximized
+2023-09-06 15:27:02,437 [INFO ] step_definitions.VerifyCEO [main] User in the Dashboard page
+2023-09-06 15:27:02,438 [INFO ] step_definitions.VerifyCEO [main] User navigates to Directory Page
+2023-09-06 15:27:04,153 [INFO ] step_definitions.VerifyCEO [main] user search as {string} as Job_Title
+2023-09-06 15:27:07,935 [INFO ] step_definitions.VerifyCEO [main] the user should see the {string} as below
+2023-09-06 15:27:08,363 [INFO ] step_definitions.VerifyCEO [main] CEO verified
+2023-09-06 15:27:08,380 [INFO ] common.SomeUtils [main] config property read
+2023-09-06 15:27:08,382 [INFO ] step_definitions.VerifyTimesheets [main] User is on the TImesheet page
+2023-09-06 15:27:09,472 [INFO ] step_definitions.VerifyTimesheets [main] User selects the Employee {string} and Click on View button
+2023-09-06 15:27:14,161 [INFO ] step_definitions.VerifyTimesheets [main] The User should see the Message
+2023-09-06 15:30:32,611 [INFO ] common.SomeUtils [main] config property read
+2023-09-06 15:30:35,043 [INFO ] webdriverpackage.WebDriverClass [main] Chrome is Starting
+2023-09-06 15:30:45,459 [INFO ] common.CommonFunctions [main] URL Launched
+2023-09-06 15:30:45,609 [INFO ] common.CommonFunctions [main] Window Maximized
+2023-09-06 15:30:48,030 [INFO ] step_definitions.VerifyCEO [main] User in the Dashboard page
+2023-09-06 15:30:48,032 [INFO ] step_definitions.VerifyCEO [main] User navigates to Directory Page
+2023-09-06 15:30:49,307 [INFO ] step_definitions.VerifyCEO [main] user search as {string} as Job_Title
+2023-09-06 15:30:53,255 [INFO ] step_definitions.VerifyCEO [main] the user should see the {string} as below
+2023-09-06 15:30:53,738 [INFO ] step_definitions.VerifyCEO [main] CEO verified
+2023-09-06 15:30:53,756 [INFO ] common.SomeUtils [main] config property read
+2023-09-06 15:30:53,758 [INFO ] step_definitions.VerifyTimesheets [main] User is on the TImesheet page
+2023-09-06 15:30:54,746 [INFO ] step_definitions.VerifyTimesheets [main] User selects the Employee {string} and Click on View button
+2023-09-06 15:30:55,509 [INFO ] step_definitions.VerifyTimesheets [main] The User should see the Message
+2023-09-06 15:34:07,310 [INFO ] common.SomeUtils [main] config property read
+2023-09-06 15:34:09,731 [INFO ] webdriverpackage.WebDriverClass [main] Chrome is Starting
+2023-09-06 15:34:23,280 [INFO ] common.CommonFunctions [main] URL Launched
+2023-09-06 15:34:23,433 [INFO ] common.CommonFunctions [main] Window Maximized
+2023-09-06 15:34:25,872 [INFO ] step_definitions.VerifyCEO [main] User in the Dashboard page
+2023-09-06 15:34:25,874 [INFO ] step_definitions.VerifyCEO [main] User navigates to Directory Page
+2023-09-06 15:34:27,062 [INFO ] step_definitions.VerifyCEO [main] user search as {string} as Job_Title
+2023-09-06 15:34:31,019 [INFO ] step_definitions.VerifyCEO [main] the user should see the {string} as below
+2023-09-06 15:34:31,506 [INFO ] step_definitions.VerifyCEO [main] CEO verified
+2023-09-06 15:34:31,525 [INFO ] common.SomeUtils [main] config property read
+2023-09-06 15:34:31,527 [INFO ] step_definitions.VerifyTimesheets [main] User is on the TImesheet page
+2023-09-06 15:34:32,603 [INFO ] step_definitions.VerifyTimesheets [main] User selects the Employee {string} and Click on View button
+2023-09-06 15:34:37,887 [INFO ] step_definitions.VerifyTimesheets [main] The User should see the Message
+2023-09-06 15:34:38,848 [INFO ] step_definitions.VerifyTimesheets [main] User seen the message
+2023-09-06 15:38:00,689 [INFO ] common.SomeUtils [main] config property read
+2023-09-06 15:38:03,157 [INFO ] webdriverpackage.WebDriverClass [main] Chrome is Starting
+2023-09-06 15:38:16,231 [INFO ] common.CommonFunctions [main] URL Launched
+2023-09-06 15:38:16,368 [INFO ] common.CommonFunctions [main] Window Maximized
+2023-09-06 15:38:18,923 [INFO ] step_definitions.VerifyCEO [main] User in the Dashboard page
+2023-09-06 15:38:18,925 [INFO ] step_definitions.VerifyCEO [main] User navigates to Directory Page
+2023-09-06 15:38:20,188 [INFO ] step_definitions.VerifyCEO [main] user search as {string} as Job_Title
+2023-09-06 15:38:24,234 [INFO ] step_definitions.VerifyCEO [main] the user should see the {string} as below
+2023-09-06 15:38:24,671 [INFO ] step_definitions.VerifyCEO [main] CEO verified
+2023-09-06 15:38:24,686 [INFO ] common.SomeUtils [main] config property read
+2023-09-06 15:38:24,688 [INFO ] step_definitions.VerifyTimesheets [main] User is on the TImesheet page
+2023-09-06 15:38:25,815 [INFO ] step_definitions.VerifyTimesheets [main] User selects the Employee {string} and Click on View button
+2023-09-06 15:38:26,544 [INFO ] step_definitions.VerifyTimesheets [main] The User should see the Message
+2023-09-06 15:39:31,192 [INFO ] common.SomeUtils [main] config property read
+2023-09-06 15:39:33,594 [INFO ] webdriverpackage.WebDriverClass [main] Chrome is Starting
+2023-09-06 15:39:43,981 [INFO ] common.CommonFunctions [main] URL Launched
+2023-09-06 15:39:44,128 [INFO ] common.CommonFunctions [main] Window Maximized
+2023-09-06 15:39:45,343 [INFO ] step_definitions.VerifyCEO [main] User in the Dashboard page
+2023-09-06 15:39:45,346 [INFO ] step_definitions.VerifyCEO [main] User navigates to Directory Page
+2023-09-06 15:39:47,873 [INFO ] step_definitions.VerifyCEO [main] user search as {string} as Job_Title
+2023-09-06 15:39:51,810 [INFO ] step_definitions.VerifyCEO [main] the user should see the {string} as below
+2023-09-06 15:39:52,323 [INFO ] step_definitions.VerifyCEO [main] CEO verified
+2023-09-06 15:39:52,340 [INFO ] common.SomeUtils [main] config property read
+2023-09-06 15:39:52,343 [INFO ] step_definitions.VerifyTimesheets [main] User is on the TImesheet page
+2023-09-06 15:39:53,469 [INFO ] step_definitions.VerifyTimesheets [main] User selects the Employee {string} and Click on View button
+2023-09-06 15:39:54,506 [INFO ] step_definitions.VerifyTimesheets [main] The User should see the Message
+2023-09-06 15:42:31,680 [INFO ] common.SomeUtils [main] config property read
+2023-09-06 15:42:34,313 [INFO ] webdriverpackage.WebDriverClass [main] Chrome is Starting
+2023-09-06 15:42:39,783 [INFO ] common.CommonFunctions [main] URL Launched
+2023-09-06 15:42:39,929 [INFO ] common.CommonFunctions [main] Window Maximized
+2023-09-06 15:42:40,941 [INFO ] step_definitions.VerifyCEO [main] User in the Dashboard page
+2023-09-06 15:42:40,944 [INFO ] step_definitions.VerifyCEO [main] User navigates to Directory Page
+2023-09-06 15:42:43,802 [INFO ] step_definitions.VerifyCEO [main] user search as {string} as Job_Title
+2023-09-06 15:42:47,975 [INFO ] step_definitions.VerifyCEO [main] the user should see the {string} as below
+2023-09-06 15:42:48,338 [INFO ] step_definitions.VerifyCEO [main] CEO verified
+2023-09-06 15:42:48,353 [INFO ] common.SomeUtils [main] config property read
+2023-09-06 15:42:48,355 [INFO ] step_definitions.VerifyTimesheets [main] User is on the TImesheet page
+2023-09-06 15:42:49,354 [INFO ] step_definitions.VerifyTimesheets [main] User selects the Employee {string} and Click on View button
+2023-09-06 15:42:50,049 [INFO ] step_definitions.VerifyTimesheets [main] The User should see the Message
+2023-09-06 15:45:42,648 [INFO ] common.SomeUtils [main] config property read
+2023-09-06 15:45:45,072 [INFO ] webdriverpackage.WebDriverClass [main] Chrome is Starting
+2023-09-06 15:46:00,946 [INFO ] common.CommonFunctions [main] URL Launched
+2023-09-06 15:46:01,101 [INFO ] common.CommonFunctions [main] Window Maximized
+2023-09-06 15:46:03,511 [INFO ] step_definitions.VerifyCEO [main] User in the Dashboard page
+2023-09-06 15:46:03,514 [INFO ] step_definitions.VerifyCEO [main] User navigates to Directory Page
+2023-09-06 15:46:05,111 [INFO ] step_definitions.VerifyCEO [main] user search as {string} as Job_Title
+2023-09-06 15:46:09,071 [INFO ] step_definitions.VerifyCEO [main] the user should see the {string} as below
+2023-09-06 15:46:09,571 [INFO ] step_definitions.VerifyCEO [main] CEO verified
+2023-09-06 15:46:09,585 [INFO ] common.SomeUtils [main] config property read
+2023-09-06 15:46:09,587 [INFO ] step_definitions.VerifyTimesheets [main] User is on the TImesheet page
+2023-09-06 15:46:11,159 [INFO ] step_definitions.VerifyTimesheets [main] User selects the Employee {string} and Click on View button
+2023-09-06 15:46:11,998 [INFO ] step_definitions.VerifyTimesheets [main] The User should see the Message
+2023-09-06 15:54:11,896 [INFO ] common.SomeUtils [main] config property read
+2023-09-06 15:54:16,004 [INFO ] webdriverpackage.WebDriverClass [main] Chrome is Starting
+2023-09-06 15:54:28,458 [INFO ] common.CommonFunctions [main] URL Launched
+2023-09-06 15:54:28,612 [INFO ] common.CommonFunctions [main] Window Maximized
+2023-09-06 15:54:29,563 [INFO ] step_definitions.VerifyCEO [main] User in the Dashboard page
+2023-09-06 15:54:29,565 [INFO ] step_definitions.VerifyCEO [main] User navigates to Directory Page
+2023-09-06 15:54:32,569 [INFO ] step_definitions.VerifyCEO [main] user search as {string} as Job_Title
+2023-09-06 15:54:36,840 [INFO ] step_definitions.VerifyCEO [main] the user should see the {string} as below
+2023-09-06 15:54:37,265 [INFO ] step_definitions.VerifyCEO [main] CEO verified
+2023-09-06 15:54:37,285 [INFO ] common.SomeUtils [main] config property read
+2023-09-06 15:54:37,287 [INFO ] step_definitions.VerifyTimesheets [main] User is on the TImesheet page
+2023-09-06 15:54:38,459 [INFO ] step_definitions.VerifyTimesheets [main] User selects the Employee {string} and Click on View button
+2023-09-06 15:54:39,277 [INFO ] step_definitions.VerifyTimesheets [main] The User should see the Message
+2023-09-06 16:05:32,032 [INFO ] common.SomeUtils [main] config property read
+2023-09-06 16:05:34,822 [INFO ] webdriverpackage.WebDriverClass [main] Chrome is Starting
+2023-09-06 16:05:48,536 [INFO ] common.CommonFunctions [main] URL Launched
+2023-09-06 16:05:48,682 [INFO ] common.CommonFunctions [main] Window Maximized
+2023-09-06 16:05:51,079 [INFO ] step_definitions.VerifyCEO [main] User in the Dashboard page
+2023-09-06 16:05:51,082 [INFO ] step_definitions.VerifyCEO [main] User navigates to Directory Page
+2023-09-06 16:05:52,321 [INFO ] step_definitions.VerifyCEO [main] user search as {string} as Job_Title
+2023-09-06 16:05:56,603 [INFO ] step_definitions.VerifyCEO [main] the user should see the {string} as below
+2023-09-06 16:05:57,016 [INFO ] step_definitions.VerifyCEO [main] CEO verified
+2023-09-06 16:05:57,031 [INFO ] common.SomeUtils [main] config property read
+2023-09-06 16:05:57,033 [INFO ] step_definitions.VerifyTimesheets [main] User is on the TImesheet page
+2023-09-06 16:05:58,167 [INFO ] step_definitions.VerifyTimesheets [main] User selects the Employee {string} and Click on View button
+2023-09-06 16:05:58,948 [INFO ] step_definitions.VerifyTimesheets [main] The User should see the Message
+2023-09-06 16:08:11,357 [INFO ] common.SomeUtils [main] config property read
+2023-09-06 16:08:13,759 [INFO ] webdriverpackage.WebDriverClass [main] Chrome is Starting
+2023-09-06 16:08:24,885 [INFO ] common.CommonFunctions [main] URL Launched
+2023-09-06 16:08:25,026 [INFO ] common.CommonFunctions [main] Window Maximized
+2023-09-06 16:08:27,565 [INFO ] step_definitions.VerifyTimesheets [main] User is on the TImesheet page
+2023-09-06 16:08:29,522 [INFO ] step_definitions.VerifyTimesheets [main] User selects the Employee {string} and Click on View button
+2023-09-06 16:08:30,210 [INFO ] step_definitions.VerifyTimesheets [main] The User should see the Message
+2023-09-06 16:09:11,219 [INFO ] common.SomeUtils [main] config property read
+2023-09-06 16:09:13,639 [INFO ] webdriverpackage.WebDriverClass [main] Chrome is Starting
+2023-09-06 16:09:24,371 [INFO ] common.CommonFunctions [main] URL Launched
+2023-09-06 16:09:24,519 [INFO ] common.CommonFunctions [main] Window Maximized
+2023-09-06 16:09:26,855 [INFO ] step_definitions.VerifyTimesheets [main] User is on the TImesheet page
+2023-09-06 16:09:28,650 [INFO ] step_definitions.VerifyTimesheets [main] User selects the Employee {string} and Click on View button
+2023-09-06 16:09:34,189 [INFO ] step_definitions.VerifyTimesheets [main] The User should see the Message
+2023-09-06 16:09:35,299 [INFO ] step_definitions.VerifyTimesheets [main] User seen the message
+2023-09-08 13:59:07,175 [INFO ] common.SomeUtils [main] config property read
+2023-09-08 13:59:12,513 [INFO ] webdriverpackage.WebDriverClass [main] Chrome is Starting
+2023-09-08 13:59:27,321 [INFO ] common.CommonFunctions [main] URL Launched
+2023-09-08 13:59:27,467 [INFO ] common.CommonFunctions [main] Window Maximized
+2023-09-08 13:59:29,785 [INFO ] step_definitions.VerifyCEO [main] User in the Dashboard page
+2023-09-08 13:59:29,789 [INFO ] step_definitions.VerifyCEO [main] User navigates to Directory Page
+2023-09-08 13:59:30,972 [INFO ] step_definitions.VerifyCEO [main] user search as {string} as Job_Title
+2023-09-08 13:59:34,836 [INFO ] step_definitions.VerifyCEO [main] the user should see the {string} as below
+2023-09-08 13:59:35,320 [INFO ] step_definitions.VerifyCEO [main] CEO verified
+2023-09-08 13:59:35,340 [INFO ] common.SomeUtils [main] config property read
+2023-09-08 13:59:35,343 [INFO ] step_definitions.VerifyTimesheets [main] User is on the TImesheet page
+2023-09-08 13:59:36,324 [INFO ] step_definitions.VerifyTimesheets [main] User selects the Employee {string} and Click on View button
+2023-09-08 13:59:41,615 [INFO ] step_definitions.VerifyTimesheets [main] The User should see the Message
+2023-09-08 13:59:42,796 [INFO ] step_definitions.VerifyTimesheets [main] User seen the message
+2023-09-08 14:05:24,053 [INFO ] common.SomeUtils [main] config property read
+2023-09-08 14:05:26,892 [INFO ] webdriverpackage.WebDriverClass [main] Chrome is Starting
+2023-09-08 14:05:41,445 [INFO ] common.CommonFunctions [main] URL Launched
+2023-09-08 14:05:41,582 [INFO ] common.CommonFunctions [main] Window Maximized
+2023-09-08 14:05:45,936 [INFO ] step_definitions.VerifyCEO [main] User in the Dashboard page
+2023-09-08 14:05:45,942 [INFO ] step_definitions.VerifyCEO [main] User navigates to Directory Page
+2023-09-08 14:05:47,130 [INFO ] step_definitions.VerifyCEO [main] user search as {string} as Job_Title
+2023-09-08 14:05:50,939 [INFO ] step_definitions.VerifyCEO [main] the user should see the {string} as below
+2023-09-08 14:05:51,438 [INFO ] step_definitions.VerifyCEO [main] CEO verified
+2023-09-08 14:05:51,452 [INFO ] common.SomeUtils [main] config property read
+2023-09-08 14:05:51,456 [INFO ] step_definitions.VerifyTimesheets [main] User is on the TImesheet page
+2023-09-08 14:05:53,032 [INFO ] step_definitions.VerifyTimesheets [main] User selects the Employee {string} and Click on View button
+2023-09-08 14:05:53,743 [INFO ] step_definitions.VerifyTimesheets [main] The User should see the Message
+2023-09-08 14:18:12,588 [INFO ] common.SomeUtils [main] config property read
+2023-09-08 14:18:15,416 [INFO ] webdriverpackage.WebDriverClass [main] Chrome is Starting
+2023-09-08 14:18:26,724 [INFO ] common.CommonFunctions [main] URL Launched
+2023-09-08 14:18:26,865 [INFO ] common.CommonFunctions [main] Window Maximized
+2023-09-08 14:18:29,124 [INFO ] step_definitions.VerifyCEO [main] User in the Dashboard page
+2023-09-08 14:18:29,133 [INFO ] step_definitions.VerifyCEO [main] User navigates to Directory Page
+2023-09-08 14:18:30,308 [INFO ] step_definitions.VerifyCEO [main] user search as {string} as Job_Title
+2023-09-08 14:18:34,176 [INFO ] step_definitions.VerifyCEO [main] the user should see the {string} as below
+2023-09-08 14:18:34,618 [INFO ] step_definitions.VerifyCEO [main] CEO verified
+2023-09-08 14:18:34,635 [INFO ] common.SomeUtils [main] config property read
+2023-09-08 14:18:34,639 [INFO ] step_definitions.VerifyTimesheets [main] User is on the TImesheet page
+2023-09-08 14:18:35,610 [INFO ] step_definitions.VerifyTimesheets [main] User selects the Employee {string} and Click on View button
+2023-09-08 14:18:36,325 [INFO ] step_definitions.VerifyTimesheets [main] The User should see the Message
+2023-09-08 14:19:48,408 [INFO ] common.SomeUtils [main] config property read
+2023-09-08 14:19:51,294 [INFO ] webdriverpackage.WebDriverClass [main] Chrome is Starting
+2023-09-08 14:19:56,773 [INFO ] common.CommonFunctions [main] URL Launched
+2023-09-08 14:19:56,937 [INFO ] common.CommonFunctions [main] Window Maximized
+2023-09-08 14:19:57,848 [INFO ] step_definitions.VerifyCEO [main] User in the Dashboard page
+2023-09-08 14:19:57,857 [INFO ] step_definitions.VerifyCEO [main] User navigates to Directory Page
+2023-09-08 14:20:00,405 [INFO ] step_definitions.VerifyCEO [main] user search as {string} as Job_Title
+2023-09-08 14:20:04,403 [INFO ] step_definitions.VerifyCEO [main] the user should see the {string} as below
+2023-09-08 14:20:04,889 [INFO ] step_definitions.VerifyCEO [main] CEO verified
+2023-09-08 14:20:04,911 [INFO ] common.SomeUtils [main] config property read
+2023-09-08 14:20:04,915 [INFO ] step_definitions.VerifyTimesheets [main] User is on the TImesheet page
+2023-09-08 14:20:06,133 [INFO ] step_definitions.VerifyTimesheets [main] User selects the Employee {string} and Click on View button
+2023-09-08 14:20:06,865 [INFO ] step_definitions.VerifyTimesheets [main] The User should see the Message
+2023-09-08 14:25:29,107 [INFO ] common.SomeUtils [main] config property read
+2023-09-08 14:25:32,062 [INFO ] webdriverpackage.WebDriverClass [main] Chrome is Starting
+2023-09-08 14:25:45,236 [INFO ] common.CommonFunctions [main] URL Launched
+2023-09-08 14:25:45,392 [INFO ] common.CommonFunctions [main] Window Maximized
+2023-09-08 14:25:47,751 [INFO ] step_definitions.VerifyCEO [main] User in the Dashboard page
+2023-09-08 14:25:47,760 [INFO ] step_definitions.VerifyCEO [main] User navigates to Directory Page
+2023-09-08 14:25:49,067 [INFO ] step_definitions.VerifyCEO [main] user search as {string} as Job_Title
+2023-09-08 14:25:53,092 [INFO ] step_definitions.VerifyCEO [main] the user should see the {string} as below
+2023-09-08 14:25:53,521 [INFO ] step_definitions.VerifyCEO [main] CEO verified
+2023-09-08 14:25:53,538 [INFO ] common.SomeUtils [main] config property read
+2023-09-08 14:25:53,542 [INFO ] step_definitions.VerifyTimesheets [main] User is on the TImesheet page
+2023-09-08 14:25:54,503 [INFO ] step_definitions.VerifyTimesheets [main] User selects the Employee {string} and Click on View button
+2023-09-08 14:25:55,284 [INFO ] step_definitions.VerifyTimesheets [main] The User should see the Message
+2023-09-08 14:29:57,121 [INFO ] common.SomeUtils [main] config property read
+2023-09-08 14:29:59,601 [INFO ] webdriverpackage.WebDriverClass [main] Chrome is Starting
+2023-09-08 14:30:05,360 [INFO ] common.CommonFunctions [main] URL Launched
+2023-09-08 14:30:05,514 [INFO ] common.CommonFunctions [main] Window Maximized
+2023-09-08 14:30:06,582 [INFO ] step_definitions.VerifyCEO [main] User in the Dashboard page
+2023-09-08 14:30:06,590 [INFO ] step_definitions.VerifyCEO [main] User navigates to Directory Page
+2023-09-08 14:30:09,387 [INFO ] step_definitions.VerifyCEO [main] user search as {string} as Job_Title
+2023-09-08 14:30:15,714 [INFO ] step_definitions.VerifyCEO [main] the user should see the {string} as below
+2023-09-08 14:30:16,320 [INFO ] step_definitions.VerifyCEO [main] CEO verified
+2023-09-08 14:30:16,338 [INFO ] common.SomeUtils [main] config property read
+2023-09-08 14:30:16,342 [INFO ] step_definitions.VerifyTimesheets [main] User is on the TImesheet page
+2023-09-08 14:30:18,744 [INFO ] step_definitions.VerifyTimesheets [main] User selects the Employee {string} and Click on View button
+2023-09-08 14:30:19,960 [INFO ] step_definitions.VerifyTimesheets [main] The User should see the Message
+2023-09-08 18:14:47,989 [INFO ] common.SomeUtils [main] config property read
+2023-09-08 18:14:51,025 [INFO ] webdriverpackage.WebDriverClass [main] Chrome is Starting
+2023-09-08 18:15:03,009 [INFO ] common.CommonFunctions [main] URL Launched
+2023-09-08 18:15:03,151 [INFO ] common.CommonFunctions [main] Window Maximized
+2023-09-08 18:15:05,480 [INFO ] step_definitions.VerifyCEO [main] User in the Dashboard page
+2023-09-08 18:15:05,486 [INFO ] step_definitions.VerifyCEO [main] User navigates to Directory Page
+2023-09-08 18:15:06,711 [INFO ] step_definitions.VerifyCEO [main] user search as {string} as Job_Title
+2023-09-08 18:15:10,753 [INFO ] step_definitions.VerifyCEO [main] the user should see the {string} as below
+2023-09-08 18:15:11,683 [INFO ] step_definitions.VerifyCEO [main] CEO verified
+2023-09-08 18:15:11,693 [INFO ] common.SomeUtils [main] config property read
+2023-09-08 18:15:11,695 [INFO ] step_definitions.VerifyTimesheets [main] User is on the TImesheet page
+2023-09-08 18:15:13,341 [INFO ] step_definitions.VerifyTimesheets [main] User selects the Employee {string} and Click on View button
+2023-09-08 18:15:13,989 [INFO ] step_definitions.VerifyTimesheets [main] The User should see the Message
+2023-09-08 18:17:00,292 [INFO ] common.SomeUtils [main] config property read
+2023-09-08 18:17:03,339 [INFO ] webdriverpackage.WebDriverClass [main] Chrome is Starting
+2023-09-08 18:17:16,067 [INFO ] common.CommonFunctions [main] URL Launched
+2023-09-08 18:17:16,227 [INFO ] common.CommonFunctions [main] Window Maximized
+2023-09-08 18:17:18,367 [INFO ] step_definitions.VerifyCEO [main] User in the Dashboard page
+2023-09-08 18:17:18,374 [INFO ] step_definitions.VerifyCEO [main] User navigates to Directory Page
+2023-09-08 18:17:19,609 [INFO ] step_definitions.VerifyCEO [main] user search as {string} as Job_Title
+2023-09-08 18:17:23,402 [INFO ] step_definitions.VerifyCEO [main] the user should see the {string} as below
+2023-09-08 18:17:23,903 [INFO ] step_definitions.VerifyCEO [main] CEO verified
+2023-09-08 18:17:23,921 [INFO ] common.SomeUtils [main] config property read
+2023-09-08 18:17:23,922 [INFO ] step_definitions.VerifyTimesheets [main] User is on the TImesheet page
+2023-09-08 18:17:24,946 [INFO ] step_definitions.VerifyTimesheets [main] User selects the Employee {string} and Click on View button
+2023-09-08 18:17:25,721 [INFO ] step_definitions.VerifyTimesheets [main] The User should see the Message
+2023-09-08 18:24:24,864 [INFO ] common.SomeUtils [main] config property read
+2023-09-08 18:24:27,673 [INFO ] webdriverpackage.WebDriverClass [main] Chrome is Starting
+2023-09-08 18:24:41,470 [INFO ] common.CommonFunctions [main] URL Launched
+2023-09-08 18:24:41,619 [INFO ] common.CommonFunctions [main] Window Maximized
+2023-09-08 18:24:44,337 [INFO ] step_definitions.VerifyCEO [main] User in the Dashboard page
+2023-09-08 18:24:44,343 [INFO ] step_definitions.VerifyCEO [main] User navigates to Directory Page
+2023-09-08 18:24:45,552 [INFO ] step_definitions.VerifyCEO [main] user search as {string} as Job_Title
+2023-09-08 18:24:49,602 [INFO ] step_definitions.VerifyCEO [main] the user should see the {string} as below
+2023-09-08 18:24:49,995 [INFO ] step_definitions.VerifyCEO [main] CEO verified
+2023-09-08 18:24:50,022 [INFO ] common.SomeUtils [main] config property read
+2023-09-08 18:24:50,024 [INFO ] step_definitions.VerifyTimesheets [main] User is on the TImesheet page
+2023-09-08 18:24:51,032 [INFO ] step_definitions.VerifyTimesheets [main] User selects the Employee {string} and Click on View button
+2023-09-08 18:24:51,794 [INFO ] step_definitions.VerifyTimesheets [main] The User should see the Message
